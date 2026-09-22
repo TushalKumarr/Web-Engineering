@@ -1,4 +1,4 @@
-# 🌐 Web Engineering — Sukkur IBA University (5th Semester)
+# 🌐 Web Engineering — Sukkur IBA University
 
 This repository contains lab tasks, practical exercises, and projects completed during the **5th Semester Web Engineering** course at **Sukkur IBA University**.
 

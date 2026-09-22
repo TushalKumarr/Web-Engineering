@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    font-size: 40px;
+
+}
+
+
+#p1{
+    color: goldenrod;
+    font-size: 30px;
+}
+
+
+.role{
+    
+    font-size: 30px;
+
+}
+
+#p2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: line-through;
+}
+
+*{
+    box-sizing: border-box;
+}

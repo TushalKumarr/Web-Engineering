@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.container {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 30px;
+    width: 300px;
+    margin: auto;
+}
+
+#count {
+    font-size: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}

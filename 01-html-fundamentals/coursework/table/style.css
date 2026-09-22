@@ -1,0 +1,28 @@
+.c{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+.c1{
+   
+    background-color: rgb(230, 228, 227);
+    writing-mode: sideways-lr;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+
+.c2{
+    font-weight: bold;
+    
+}
+
+.c3{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}

@@ -1,0 +1,48 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #f2efef;
+    padding-top: 50px;
+}
+
+.card {
+    background: #7e3131;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+img {
+    width: 150px;
+    height: 230px;
+    object-fit: contain;
+    margin-bottom: 25px;
+}
+
+button {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 24px;
+    margin: 5px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.btn-on {
+    background-color: #2ec4b6;
+    color: white;
+}
+
+.btn-off {
+    background-color: #e71d36;
+    color: rgb(97, 65, 65);
+}
+
+button:hover {
+    opacity: 0.9;
+    transform: scale(1.05);
+}

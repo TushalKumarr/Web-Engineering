@@ -11,7 +11,7 @@ This repository contains lab tasks, practical exercises, and projects completed 
 - **Institution:** Sukkur IBA University
 - **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Git
 
----
+--- 
 
 ## 📁 Repository Index
 

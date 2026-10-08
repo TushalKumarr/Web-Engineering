@@ -1,0 +1,58 @@
+.main {
+    width: 700px;
+    margin: 30px auto;
+    border: 3px solid black;
+}
+
+/* Top */
+.green {
+    background-color: green;
+    height: 100px;
+    text-align: center;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+
+/* Middle */
+.middle {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+/* Three nested divs */
+.blue {
+    background-color: blue;
+    width: 150px;
+    height: 80px;
+    text-align: center;
+    padding-top: 25px;
+    box-sizing: border-box;
+}
+
+.red {
+    background-color: red;
+    width: 150px;
+    height: 80px;
+    text-align: center;
+    padding-top: 25px;
+    box-sizing: border-box;
+}
+
+.purple {
+    background-color: purple;
+    width: 150px;
+    height: 80px;
+    text-align: center;
+    padding-top: 25px;
+    box-sizing: border-box;
+}
+
+/* Bottom */
+.yellow {
+    background-color: yellow;
+    height: 100px;
+    text-align: center;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
